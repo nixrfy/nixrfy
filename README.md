@@ -1,21 +1,21 @@
-<h1 align="center">👋 Hi, I'm ZeanDeveloper! 🚀</h1>
+<h1 align="center">✨ Hey there, I'm ZeanDeveloper! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79F1F&width=435&lines=Full-Stack+Developer;Game+Server+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Game+Server+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🚀 About Me  
-🔹 **Full-Stack Developer** with a passion for **game servers, web apps, and software development**  
-🔹 Experienced in **SAMP, FiveM, alt:V, Roblox, and Minecraft server development**  
+🔹 **Full-Stack Developer** passionate about **game servers, web apps, and software development**  
+🔹 Specialized in **SAMP, FiveM, alt:V, Roblox, and Minecraft server scripting**  
 🔹 Skilled in **C++, C#, Lua, Python, JavaScript, HTML/CSS, SQL**  
-🔹 Always **learning new technologies & improving my skills**  
+🔹 Always exploring new technologies & pushing the boundaries of development  
 
 ---
 
 ## 🛠 Tech Stack  
-### 🔹 Languages & Frameworks  
+### 🚀 Languages & Frameworks  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -45,11 +45,13 @@
 ---
 
 ## 🌎 Let's Connect!  
-🌐 **Website:** [zeandeveloper.com](https://zeandeveloper.com)  
-📸 **Instagram:** [@zeandeveloper](https://instagram.com/zeandeveloper)  
-🎥 **YouTube:** [ZeanDeveloper](https://youtube.com/@zeandeveloper)  
-🐦 **X (Twitter):** [@zeandeveloper](https://twitter.com/zeandeveloper)  
-🎵 **TikTok:** [@zeandeveloper](https://tiktok.com/@zeandeveloper)  
+<p align="center">
+  <a href="https://zeandev.net" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://instagram.com/nixrfy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://youtube.com/@nixrfy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://twitter.com/nixrfy" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://tiktok.com/@nixrfy" target="_blank"><img src="https://img.shields.io/badge/TikTok-69C9D0?style=for-the-badge&logo=tiktok&logoColor=black" alt="TikTok"></a>
+</p>
 
 ---
 
